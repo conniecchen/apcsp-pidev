@@ -21,7 +21,7 @@ int main()
   for (int i = 0; i < 100; i++)
   
   {
-    arr[i] = i * 1;
+    arr[i] = i * i;
   }
   
   arrayAdd(arr, 100, 2);
