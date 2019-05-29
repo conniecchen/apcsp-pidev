@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-float areaofcricle(float radius)
+float areaofcircle(float radius)
 {
  float area;
  area = M_PI * radius * radius;
